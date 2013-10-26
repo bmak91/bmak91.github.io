@@ -3,9 +3,10 @@ html, body {
 }
 
 body {
-  background: #e2fcff;
+  background: #6EBEDE;
 }
 
 h1.title {
   text-align: center;
+  color: white;
 }
