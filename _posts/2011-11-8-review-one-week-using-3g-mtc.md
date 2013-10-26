@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: One Week Using 3G (MTC Touch Lebanon)
+title: Review | One Week Using 3G (MTC Touch Lebanon)
 description: "Disqus and Outbrain."
 modified: 2012-03-31
 image:
