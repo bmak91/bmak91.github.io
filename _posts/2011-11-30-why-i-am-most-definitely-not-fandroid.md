@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Am Most Definitely Not A Fandroid 
+title: Why I Am Most Definitely ~~Not~~ A Fandroid 
 description: "Why I Am Most Definitely Not A Fandroid. Turns out I am."
 modified: 2013-10-27
 tags: [Tech Zone, Nexus, Android, Google, Apple, Microsoft, ICS]
