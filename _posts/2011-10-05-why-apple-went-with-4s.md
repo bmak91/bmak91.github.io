@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Why Apple Went With the “4S”
+title: Why Apple Went With the 4S
 description: "Against expectations (or hopes), Apple announced an iPhone 4S instead of an iPhone 5. In this post I try to reason as to why Apple went that route."
 modified: 2013-10-26
 tags: [Tech Zone][iPhone][Apple][iOS 5][Steve Jobs]
 comments: true
 share: true
 ---
-
 
 Apple announced earlier the new iPhone 4S, an iPhone 4 in design, but with beefed up specs including the new A5 double-core CPU chip already found in the iPad 2, a new 8 MP shooter capable of 1080p full HD, and last but definitely not least, “Siri”.
 
