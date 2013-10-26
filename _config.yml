@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website here.
+title:            A Coding Brain
+description:      #Describe your website here.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://blog.acodingbrain.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Bassem
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            #"Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          #you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
