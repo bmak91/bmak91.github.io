@@ -11,6 +11,7 @@ share: true
 {:.pull-right}
 ![alt text](/images/features_siri_gallery_messages.png "iPhone 4S")
 {:.clearfix}
+
 {:.pull-right}
 Image credits: Apple.com
 
