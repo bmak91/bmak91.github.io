@@ -10,9 +10,6 @@ share: true
 
 {:.pull-right}
 ![alt text](/images/features_siri_gallery_messages.png "iPhone 4S")
-Image credits: Apple.com
-{:.clearfix}
-
 
 Apple announced earlier the new iPhone 4S, an iPhone 4 in design, but with beefed up specs including the new A5 double-core CPU chip already found in the iPad 2, a new 8 MP shooter capable of 1080p full HD, and last but definitely not least, Siri.
 
@@ -27,3 +24,5 @@ Now that is a dilemma, for no matter how good of a design the new iPhone was goi
 Now, it is safe to assume that starting with the next iPhone, and with other products (Macs) set to be announced/upgraded in the meantime, Cook, having “fixed his feet to the ground” and being less and less pressed to prove his capabilities, could start deviating from the “Jobs vision” and instead implement his own, which would be translated in a new design, both on the software and hardware levels. How far this deviation would be remains to be seen, especially that Jobs was involved in some long-term projects too, and thus his footprint would still be present to a reasonable extent.
 
 October is not done yet with surprises, especially that Android “Ice-Cream Sandwich”, Google’s next Nexus phone and Nokia’s new Widows Phone “Mango” handsets are on the verge of being announced. One thing I know for sure though: Siri, I wanna marry you!
+
+*Image credits: Apple.com*
