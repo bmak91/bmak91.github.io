@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patronus of Dreams or Why My Brain Says It's Alright
-description: "Introducing the blog."
+description: "You are wrong, Harru Potter is awesome."
 modified: 2011-10-07
 image:
   feature: HarryPatronusPoA.jpg
