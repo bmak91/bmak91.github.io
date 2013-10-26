@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Apple announced earlier the new iPhone 4S, an iPhone 4 in design, but with beefed up specs including the new A5 double-core CPU chip already found in the iPad 2, a new 8 MP shooter capable of 1080p full HD, and last but definitely not least, “Siri”.
+Apple announced earlier the new iPhone 4S, an iPhone 4 in design, but with beefed up specs including the new A5 double-core CPU chip already found in the iPad 2, a new 8 MP shooter capable of 1080p full HD, and last but definitely not least, Siri.
 
 Siri is the “humble personal assistant” as “she” identifies herself, capable of voice-to-text and text-to-voice (and generally voice command), along with more complex tasks such as scheduling meetings and taking care of your correspondence, all by simple verbal request.
 
