@@ -4,7 +4,7 @@ link: 2011-10-07-inauguratio
 title: Inauguratio
 description: "Introducing the blog."
 modified: 2013-10-26
-tags: [General][bmak's blog][Premiere]
+tags: [General, bmak's blog, Premiere]
 comments: true
 share: true
 ---

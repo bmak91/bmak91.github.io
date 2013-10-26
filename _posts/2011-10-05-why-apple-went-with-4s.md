@@ -3,7 +3,7 @@ layout: post
 title: Why Apple Went With the 4S
 description: "Against expectations (or hopes), Apple announced an iPhone 4S instead of an iPhone 5. In this post I try to reason as to why Apple went that route."
 modified: 2013-10-26
-tags: [Tech Zone][iPhone][Apple][iOS 5][Steve Jobs]
+tags: [Tech Zone, iPhone, Apple, iOS 5, Steve Jobs]
 comments: true
 share: true
 ---
