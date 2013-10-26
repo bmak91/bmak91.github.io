@@ -1,6 +1,5 @@
 ---
 layout: post
-link: 2011/10/07/patronus-of-dreams-or-why-my-brain-says
 title: Patronus of Dreams or Why My Brain Says It's Alright
 description: "Introducing the blog."
 modified: 2011-10-07
