@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #e2fcff;
+}
+
+h1.title {
+  text-align: center;
+}
