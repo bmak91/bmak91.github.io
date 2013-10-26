@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Week Using 3G (MTC Touch Lebanon) | Review
-description: "Disqus and Outbrain."
+description: "A quick review of the new 3.9G service in Lebanon."
 modified: 2012-03-31
 image:
   feature: 3.9g-testing.jpg
