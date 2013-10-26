@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Why Apple Went With the “4S”
 description: "Against expectations (or hopes), Apple announced an iPhone 4S instead of an iPhone 5. In this post I try to reason as to why Apple went that route."
