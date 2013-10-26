@@ -10,6 +10,8 @@ share: true
 
 {:.pull-right}
 ![alt text](/images/features_siri_gallery_messages.png "iPhone 4S")
+{:.clearfix}
+{:.pull-right}
 Image credits: Apple.com
 
 Apple announced earlier the new iPhone 4S, an iPhone 4 in design, but with beefed up specs including the new A5 double-core CPU chip already found in the iPad 2, a new 8 MP shooter capable of 1080p full HD, and last but definitely not least, Siri.
