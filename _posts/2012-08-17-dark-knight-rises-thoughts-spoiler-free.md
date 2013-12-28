@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts\: The Dark Knight Rises (Spoiler-free!)
+title: The Dark Knight Rises (Spoiler-free!) | Thoughts
 description: "Thoughts after watching The Dark Knight Rises."
 modified: 2012-08-17
 image:
