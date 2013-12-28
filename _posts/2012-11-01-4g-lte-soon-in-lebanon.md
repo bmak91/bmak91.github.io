@@ -5,7 +5,7 @@ description: "4G LTE comes to Lebanon."
 modified: 2012-11-01
 image:
   feature: lte-logo.jpg
-tags: [4G, alfa, HSPA+, Lebanon, LTE, Tech Zone, touch]
+tags: [4G, alfa, Lebanon, LTE, Tech Zone, touch]
 comments: true
 share: true
 ---
