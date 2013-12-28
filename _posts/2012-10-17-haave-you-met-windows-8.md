@@ -28,7 +28,7 @@ Windows Phone 8 will be revealed few days after Windows 8, on the 29th. While ma
 **Note:** If you own a copy of Windows XP, Vista, or 7, you can upgrade to Windows 8 Pro for as little as 40$ starting October 26th and until the end of this year.
 
   
-* At the time of this writing. The stats are estimates.
+\* At the time of this writing. The stats are estimates.
 
 [1]: http://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share
 [2]: http://www.microsoft.com/Surface/en-US
