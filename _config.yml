@@ -1,6 +1,6 @@
 title:            A Coding Brain
 description:      On Tech, Life, Science, and Arts. (né bmak's blog)
-disqus_shortname: 
+disqus_shortname: acodingbrain
 #Comment out url when working locally to resolve base urls correctly
 url:              http://blog.acodingbrain.com
 
@@ -9,7 +9,7 @@ owner:
   name:           Bassem Makarem
   avatar:         avatar.jpg
   bio:            Poet by soul, doctor by heart, geek by choice, lawyer by mind, and an engineer by extension ;-)
-  email:          #you@email.com
+  email:          bassem@acodingbrain.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        makbrain
   facebook:       
