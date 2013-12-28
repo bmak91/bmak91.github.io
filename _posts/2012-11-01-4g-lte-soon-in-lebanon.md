@@ -13,7 +13,7 @@ share: true
 Annahar reported today that Telecom Minister Nicolas Sehnaoui will be unveiling plans to roll-out LTE, aka 4G technology, in Lebanon on today's episode of "Talk of the Town" on MTV. The plan, according to Annahar, will start with a testing phase starting the 16th of the current month on both operators (Touch and Alfa), with consumer availability on April 23rd, 2013.
 
 
-<blockquote class="twitter-tweet" lang="en"><p>Don&#39;t miss the scoop I will be revealing to <a href="https://twitter.com/MonaAbouHamze">@MonaAbouHamze</a> this Thursday on &quot;Talk of the Town&quot;</p>&mdash; Nicolas Sehnaoui (@NicolaSehnaoui) <a href="https://twitter.com/NicolaSehnaoui/statuses/263745389763653633">October 31, 2012</a></blockquote>
+<blockquote class="twitter-tweet" lang="en" align="center"><p>Don&#39;t miss the scoop I will be revealing to <a href="https://twitter.com/MonaAbouHamze">@MonaAbouHamze</a> this Thursday on &quot;Talk of the Town&quot;</p>&mdash; Nicolas Sehnaoui (@NicolaSehnaoui) <a href="https://twitter.com/NicolaSehnaoui/statuses/263745389763653633">October 31, 2012</a></blockquote>
 
 
 The 4G network should allow for theoretical speeds of up to 100 Mbps, with practical real-world speeds in the 30 Mbps range. By contrast, current HSPA technology allows for speeds up to around 8 Mbps. The upgrade is following work on improving the long-stagnating infrastructure in Lebanon, by installing fiber-optics cables to connect the different stations, and should give a great boost to the economy by encouraging new investments. Of course, you need to have an LTE equipped phone to take advantage of the new speeds.
@@ -22,7 +22,7 @@ The 4G network should allow for theoretical speeds of up to 100 Mbps, with pract
 **Update:** Alfa Telecom confirmation on twitter (find the official press release in the sources below):
 
 
-<blockquote class="twitter-tweet" lang="en"><p>The wait is almost over!&#10;Alfa is the first to test 4G- LTE in Lebanon with over 20 LTE test sites in <a href="https://twitter.com/search?q=%23Beirut&amp;src=hash">#Beirut</a> &#10;<a href="https://twitter.com/search?q=%23Alfa4G&amp;src=hash">#Alfa4G</a></p>&mdash; Alfa Telecom (@AlfaTelecom) <a href="https://twitter.com/AlfaTelecom/statuses/264015765374652416">November 1, 2012</a></blockquote>
+<blockquote class="twitter-tweet" lang="en" align="center"><p>The wait is almost over!&#10;Alfa is the first to test 4G- LTE in Lebanon with over 20 LTE test sites in <a href="https://twitter.com/search?q=%23Beirut&amp;src=hash">#Beirut</a> &#10;<a href="https://twitter.com/search?q=%23Alfa4G&amp;src=hash">#Alfa4G</a></p>&mdash; Alfa Telecom (@AlfaTelecom) <a href="https://twitter.com/AlfaTelecom/statuses/264015765374652416">November 1, 2012</a></blockquote>
 
 
 source: [Annahar][1], [Alfa][2]
