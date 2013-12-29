@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <script> in <head> to the rescue
+title: script in head to the rescue
 description: "Migrating from Blogger to Github Pages."
 tags: [Tech Zone, Blogger, Github, Jekyll]
 comments: true
