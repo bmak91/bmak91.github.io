@@ -15,9 +15,9 @@ This is normally done with a 301 Moved Permanently, but unfortunately (and logic
 
 Of course, a javascript redirect was always possible using 
 
-	<script>
-		window.location.replace('http://mydomain.com');
-	</script>
+    <script>
+        window.location.replace('http://mydomain.com');
+    </script>
 
 but I had already dismissed it because it also didn't fire until page elements had already loaded. 
 
@@ -25,20 +25,20 @@ And then it hit me.
 
 As a web developer, you're sworn an oath to never use a script tag in the head of the document because it blocks rendering (the browser stops rendering the page while it's dealing with javascript), making the user wait before they see the page's content. So what if I put my redirection script directly after the opening head tag?
 
-	<!DOCTYPE HTML>
+    <!DOCTYPE HTML>
 
-		<html>
-			<head>
-				<script>
-					window.location.replace('http://mydomain.com');
-				</script>
-				<!-- rest of the page -->
+        <html>
+            <head>
+                <script>
+                    window.location.replace('http://mydomain.com');
+                </script>
+                <!-- rest of the page -->
 
 Well that worked perfectly. I added some code to redirect to the correct page and not just the new blog's homepage, and it was easy since I kept the same slug. My old url's ended with '.html', that's why I sliced at -5.
 
-	<script>
-		var href = window.location.pathname;
-	    window.location.replace('http://blog.acodingbrain.com';+href.slice(href.lastIndexOf('/'),-5));
-	</script>
+    <script>
+        var href = window.location.pathname;
+        window.location.replace('http://blog.acodingbrain.com';+href.slice(href.lastIndexOf('/'),-5));
+    </script>
 
 
