@@ -11,7 +11,11 @@ I finally finished migrating from my old blog hosted on blogspot to my own domai
 
 First step was copying my posts (and changing them to markdown), which took some manual work but went fairly well. The tricky part though, was redirecting visitors to my new blog.
 
-This is normally done with a 301 Moved Permanently, but unfortunately (and logically) I don't have access to do that on blogger. So a Google search told me to use `<meta http-equiv="refresh" content="0;URL=http://mydomain.com" >`. That did what it was supposed to do (a redirect), but by the time it redirected, the page had already (almost) completely loaded. So it was a jarring experience, not to mention that a user faced with it for the first time might think something was broken and/or fishy.
+This is normally done with a 301 Moved Permanently, but unfortunately (and logically) I don't have access to do that on blogger. So a Google search told me to use
+
+    <meta http-equiv="refresh" content="0;URL=http://mydomain.com" >
+
+That did what it was supposed to do (a redirect), but by the time it redirected, the page had already (almost) completely loaded. So it was a jarring experience, not to mention that a user faced with it for the first time might think something was broken and/or fishy.
 
 Of course, a javascript redirect was always possible using 
 
