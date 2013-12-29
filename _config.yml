@@ -1,5 +1,5 @@
 title:            A Coding Brain
-description:      On Tech, Life, Science, and Arts. (né bmak's blog)
+description:      On Tech, Life, Science, and Arts.
 disqus_shortname: acodingbrain
 #Comment out url when working locally to resolve base urls correctly
 url:              http://blog.acodingbrain.com
@@ -31,6 +31,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: RSS
+    url: /feed.xml
   #- title: Theme Setup
   #  url: /theme-setup
   #- title: External Link
