@@ -27,10 +27,11 @@ Ultimately, the deciding factors boil down to two, and two only:
 
 Here's to dreaming of a better Beirut, one truly bustling with life.
 
-*A protest will be held on Sunday February 23rd against the project and its catastrophic effects starting 11am at Rmeil area near the Maronite Archbishopric of Ashrafieh. [More info here](https://www.facebook.com/events/1466099320273252/?ref=22 "Facebook Event").*
+**A protest will be held on Sunday February 23rd against the project and its catastrophic effects starting 11am at Rmeil area near the Maronite Archbishopric of Ashrafieh. [More info here](https://www.facebook.com/events/1466099320273252/?ref=22 "Facebook Event").**
 
 \* [Case Studies in Urban Freeway Removal](http://www.seattle.gov/transportation/docs/ump/06%20SEATTLE%20Case%20studies%20in%20urban%20freeway%20removal.pdf)
 
-*Additional Resources*
+*Additional Resources:*
+<br>
 [Moving Beyond Automobile: Highway Removal](http://www.streetfilms.org/mba-highway-removal/)
 
