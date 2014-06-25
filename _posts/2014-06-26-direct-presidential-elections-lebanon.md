@@ -15,7 +15,7 @@ I read a [recent post](http://saraelyafi.com/2014/06/25/results-of-my-presidenti
 
 In the post, she argues the illegitimacy of the current parliament, and by extension that of the government that earned its vote of confidence (points that I tend to agree with), and advocates direct presidential elections as a solution (a point I aim to contest).
 
-I oppose direct presidential elections in Lebanon. Not because I fear the imbalance in the numbers [of people belonging to different sects]; after all, I am unequivocally against the current sectarian system and a proponent of the establishment of a true secular state. In fact, I do not **fear** it for any reason. I stand opposed to it because it contradicts our current system of governance, namely a parliamentary republic.
+I oppose direct presidential elections in Lebanon. Not because I fear the imbalance in the numbers [of people belonging to different sects]; after all, I am unequivocally against the current sectarian system and a proponent of the establishment of a true secular state. In fact, I do not ***fear*** a direct vote for any reason. I stand opposed to it because it contradicts our current system of governance, namely a parliamentary republic.
 
 In a parliamentary system such as ours, the executive branch is held accountable to the legislature, which itself derives its legitimacy from the people. It is the fact that the parliament elects a president and gives the government a vote of confidence that makes them accountable to it. On the other hand, having the president elected by popular vote short-circuits that, and frees the president from parliamentary oversight, because his legitimacy would then be derived directly from the people as well.
 
