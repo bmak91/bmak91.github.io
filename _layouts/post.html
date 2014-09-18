@@ -48,7 +48,8 @@
         </div><!-- /.social-share -->{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if site.disqus_shortname and page.comments %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+    {% include livefyre.html %}
+    {% if site.disqus_shortname and page.comments and 1 === 0 %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
     {% if site.related_posts.size %}
     <div class="read-more">
       {% for post in site.related_posts limit:1 %}
