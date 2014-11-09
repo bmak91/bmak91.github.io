@@ -1,7 +1,12 @@
 ---
 published: true
 layout: post
+title: Buying My First Console
 description: On Making The Impossible Choice Between The PS4 And The Xbox One
+image: 
+  feature: tbbt4.jpg
+  credit: The Big Bang Theory
+  creditlink: http://cbs.com
 tags: 
   - Gaming
   - Tech Zone
@@ -18,6 +23,7 @@ I finally decided I was due to buy a gaming console, having relegated my gaming 
 In fact, the last desktop we had was a pentium 3 (with a pentium 4 sticker, mind you) and an I-can't-remember-nor-care-to-check amount of RAM, with a 512M dedicated graphics card maybe?? So my gaming prowess was mostly put to the test on my brother's (then) HP laptop, then on my current rMBP's virtual machine. And while the latter survived CoD: Modern Warfare and the occasional racing game, I don't have the heart to even suggest to it to run any of the new games I set my eyes on.
 
 So naturally my next step was:
+
 <blockquote class="twitter-tweet" lang="en"><p>I realize this is like asking about the sex of angels, but Xbox One or PS4 (in Lebanon)?</p>&mdash; Bassem Makarem (@makbrain) <a href="https://twitter.com/makbrain/status/530780991942828032">November 7, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And naturally, having no friends, no one responded _(slight exageration)_. But I digress.
