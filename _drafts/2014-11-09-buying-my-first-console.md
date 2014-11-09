@@ -3,7 +3,12 @@ published: false
 layout: post
 description: On Making The Impossible Choice Between The PS4 And The Xbox One
 tags: 
-  - gaming
+  - Gaming
+  - Tech Zone
+  - Microsoft
+  - Sony
+  - Xbox
+  - PlayStation
 comments: true
 share: true
 ---
@@ -31,6 +36,3 @@ On the other hand, the xbox has the clear advantage in (non-gaming) entertainmen
 
 So that's that: I'm getting a PS4. 
 Maybe.
-
-
-
