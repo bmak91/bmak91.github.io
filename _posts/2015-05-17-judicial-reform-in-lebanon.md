@@ -15,8 +15,7 @@ comments: true
 share: true
 ---
 
-# Judicial Reform in Lebanon
-I’ve had a clear framework for judicial reform in Lebanon in my head for a while, and the last Samaha ruling creates the perfect opportunity to lay it out. I consider the following so important that it will impact my decision on who to vote for in the next elections based on candidates’ stance from it, and I urge you to do the same.
+I’ve had a clear framework for judicial reform in Lebanon in my head for a while, and the last Samaha ruling creates the perfect opportunity to lay it out. I consider the following so important that it will impact my decision on who to vote for in the next elections based on candidates’ stance on it, and I urge you to do the same.
 
 Outside of the politics of it all, my proposals are rooted in concepts of human rights and decency that protect against police brutality, judicial overreach, and infringement of civil rights. Most of the following is not new and is in some form or another widely applied in countries where human rights are held in high esteem, and it is my opinion that they should be applied in Lebanon as well.
 
@@ -39,9 +38,9 @@ Of particular interest is the libel crime which should be reclassified under civ
 ## Revisit of the court system
 The main talk currently is about limiting the jurisdiction of the military court to disciplinary action against members of the military exclusively, which I believe is overdue regardless of any one sentence. 
 
-That is not the only court that needs to be scrapped however, as the single level judicial council remains in defiance of a right to appeals, with its sentences binding and irrevocable (not subject to appeal). Its absurdity was best shown when a Palestinian by the name of Youssef Mahmoud Chaabane was convicted of murdering a Jordanian diplomat (Naëb Omran al-Maaitha) and could not be retried and released despite his innocence after the actual perpetrators were later convicted and executed in Jordan<sup>1</sup>.
+That is not the only court that needs to be scrapped however, as the single level judicial council remains in defiance of a right to appeals, with its sentences binding and irrevocable (not subject to appeal). Its absurdity was best shown when a Palestinian by the name of Youssef Mahmoud Chaabane was convicted of murdering a Jordanian diplomat (Naëb Omran al-Maaitha) and could not be retried and released despite his innocence after the actual perpetrators were later convicted and executed in Jordan<sup>[1]</sup>.
 
 ## Bonus Round: Capital Punishment
 The capital punishment (death penalty) is in my opinion inhumane and should be abolished in Lebanese law.
 
-1 - http://www1.umn.edu/humanrts/wgad/10-2007.html
+[1]: http://www1.umn.edu/humanrts/wgad/10-2007.html
