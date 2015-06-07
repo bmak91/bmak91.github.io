@@ -2,7 +2,11 @@
 published: true
 layout: post
 title: A Mental Exercise in Ensuring Accountability
-description: Perils of self-regulation and how to ensure accountability
+description: Perils of self-regulation and how to ensure accountability.
+image:
+	feature: order-physicians-leb.jpg
+	credit: The Daily Star / Mahmoud Kheir
+	creditlink: http://www.dailystar.com.lb/
 tags: 
   - Lebanon
   - Medicine
