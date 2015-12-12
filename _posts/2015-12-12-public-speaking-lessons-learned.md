@@ -3,6 +3,10 @@ published: true
 layout: post
 title: "Public Speaking: Lessons Learned"
 description: It was bad. Like really bad.
+image:
+  feature: publicspeaking01.jpg
+  credit: The Cutting Edge
+  creditlink: https://thecuttingedgecartoon.wordpress.com/comic/public-speaking/
 tags: 
   - Tech
   - Public Speaking
