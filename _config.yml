@@ -2,7 +2,7 @@ title:            A Coding Brain
 description:      On Tech, Life, Science, and Arts.
 disqus_shortname: acodingbrain
 #Comment out url when working locally to resolve base urls correctly
-url:              http://blog.acodingbrain.com
+url:              https://blog.acodingbrain.com
 
 # Owner/author information
 owner:
