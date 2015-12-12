@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Public Speaking\: Lessons Learned
+title: "Public Speaking: Lessons Learned"
 description: It was bad. Like really bad.
 tags: 
   - Tech
