@@ -4,7 +4,7 @@ layout: post
 title: "Lebanese Passports Debacle"
 description: Because paying for a passport once is not enough.
 image:
-  feature: biometric-passport.png
+  feature: biometric.png
   credit: DHS
   creditlink: http://www.dhs.gov/e-passports
 tags: 
