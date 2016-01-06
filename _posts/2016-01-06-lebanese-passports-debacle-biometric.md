@@ -15,9 +15,11 @@ share: true
 
 So some friends have been asking me about a tweet I made regarding issuing a new Lebanese passport that I thought it'd be better to write it in a post, as it'll be easier for everyone to see.
 
-For a primer, read the [following post](stateofmind13.com/2016/01/06/everything-you-need-to). In short, Lebanese General Security suddenly decided to cancel some types of passports to comply with ICAO regulations, which left many Lebanese confused about their travel plans. The decision comes into effect on January 10th.
+For a primer, read the [following post](http://stateofmind13.com/2016/01/06/everything-you-need-to). In short, Lebanese General Security suddenly decided to cancel some types of passports to comply with ICAO regulations, which left many Lebanese confused about their travel plans. The decision comes into effect on January 10th.
 
+<div style="text-align:center;">
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Correction: July <a href="https://t.co/UNOCDm0MYm">pic.twitter.com/UNOCDm0MYm</a></p>&mdash; Bassem Makarem (@makbrain) <a href="https://twitter.com/makbrain/status/684799490335719424">January 6, 2016</a></blockquote>
+</div>
 
 Unfortunately for those who would have to reissue new passports, our passports are still not equipped with the emv chip that should hold the biometric information in compliance with, you guessed it, ICAO regulations <sup>[source](https://en.wikipedia.org/wiki/Biometric_passport)</sup>. This leaves many with the very real prospect of having to reissue yet another passport once those (passports with emv chips) become available around July <sup>[source](http://www.lecommercedulevant.com/node/24547)</sup> of this year.
 
